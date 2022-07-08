@@ -1,0 +1,16 @@
+{
+  "name": "end-to-end-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.2",
+    "jest-puppeteer": "^6.1.1",
+    "puppeteer": "^15.3.1"
+  }
+}
